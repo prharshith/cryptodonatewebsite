@@ -607,7 +607,7 @@ pre code {
 }
 
 .no-gutters {
-  margin-right: 0;
+  margin-right: 100;
   margin-left: 0;
 }
 
@@ -11693,7 +11693,7 @@ textarea.form-control {
 }
 
 .portfolio-section .portfolio-container .portfolio-item {
-  position: relative;
+  position: absolute;
   padding-left: 0;
   padding-right: 0;
   margin: 10px -5px;
